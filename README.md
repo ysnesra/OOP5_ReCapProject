@@ -1,5 +1,6 @@
 # OOP5_ReCapProject
-Araba Kiralama Projesi _Katmanlı Mimari ve LINQ yapısı kullandım
+Araba Kiralama Projesi_Console Projesi
+Katmanlı Mimari ve LINQ yapısı kullandım
 
 - Katmanlı mimariyle oluşturuldu : Entities, DataAccess, Business ve Console katmanları
 - Car,Brand,Color sınıfları oluşturuldu
